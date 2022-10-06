@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body:hover {
+    background-color: rosybrown;
+}
+
+.container {
+    margin: auto;
+    border-radius: 20px;
+    background-color: #43cea2;
+    width: fit-content;
+    height: fit-content;
+}
+
+.container_2 {
+    margin: 20px 0px 20px 20px;
+}
